@@ -12,5 +12,5 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/camera/proprietary/system/etc/sysconfig/nothing-hiddenapi-package-allowlist.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/nothing-hiddenapi-package-allowlist.xml
 
 PRODUCT_PACKAGES += \
-    NothingExperience \
-    NTCamera
+    NTCamera \
+    NothingExperience
