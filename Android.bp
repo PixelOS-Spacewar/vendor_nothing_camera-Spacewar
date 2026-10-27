@@ -3,6 +3,10 @@
 //
 
 soong_namespace {
+    imports: [
+        "device/nothing/camera-Spacewar",
+        "vendor/nothing/Spacewar",
+    ],
 }
 
 cc_prebuilt_library_shared {
