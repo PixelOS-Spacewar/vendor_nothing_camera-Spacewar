@@ -3,7 +3,7 @@
 #
 
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/nothing/camera
+    vendor/nothing/camera-Spacewar
 
 PRODUCT_COPY_FILES += \
     vendor/nothing/camera/proprietary/system/etc/permissions/privapp-permissions-NTCamera.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-NTCamera.xml \

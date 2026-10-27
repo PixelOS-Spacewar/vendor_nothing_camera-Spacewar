@@ -1,9 +1,0 @@
-# Camera App - Stock
-system/etc/permissions/privapp-permissions-NTCamera.xml|98034829295901db80f927e8cf97dd339b051884
-system/etc/sysconfig/nothing-hiddenapi-package-allowlist.xml|c7eb907ccb79b2bd50a13c5ecd88f2c1ca748bd6
-system/lib64/libnelib.so|1cf8688f02fe2bd303fb49b882f207b0a7b53451
-system_ext/etc/permissions/com.nothing.feature.xml|c2513151b752936cf04f5b063cdd7cc4f7472656
-system_ext/etc/permissions/gallery-google-lens-permissions.xml|9ecc735875b204b0df3fcc90e897ce59b55ea68f
-system_ext/etc/permissions/privapp-permissions-NothingExperience.xml|5ad16dc42634de4768f2328c004adc29bba8bd87
-system_ext/priv-app/NothingExperience/NothingExperience.apk|73507d94a0a23bc4cd11c745ad4654772a5e7398
-vendor/system/priv-app/NTCamera/NTCamera.apk:system/priv-app/NTCamera/NTCamera.apk;OVERRIDES=Camera2,GoogleCameraGo,Aperture|9274f91aed686b396d7962ed503ad14c3954f473
